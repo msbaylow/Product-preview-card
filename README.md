@@ -22,7 +22,7 @@ This is This is a solution to the [Product preview card component challenge on F
 
  ### Links
 
-- Solution URL: (http://127.0.0.1:5500/card.html)
+- Solution URL: (https://github.com/msbaylow/Product-preview-card)
 - Live Site URL: ( https://msbaylow.github.io/Product-preview-card/)
 
 ### Built with
