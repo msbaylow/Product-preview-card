@@ -18,12 +18,12 @@ This is This is a solution to the [Product preview card component challenge on F
 
  ### Screenshot
 
-![](./http://127.0.0.1:5500/card.html)
+![](./C:\Users\HP\Documents\GitHub\Product-preview-card\Web capture_10-8-2022_93730_127.0.0.1.jpeg)
 
  ### Links
 
 - Solution URL: (http://127.0.0.1:5500/card.html)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: ( https://msbaylow.github.io/Product-preview-card/)
 
 ### Built with
 
